@@ -4,8 +4,7 @@ ref: `bash pocket reference 2nd edition - page: 14`
 
 ## OVERVIEW
 
-Quotes in bash have a specific purpose and there is a clear functional difference between the different types of j
-quotes: single, double, backtick.
+Quotes in bash have a specific purpose and there is a clear functional difference between the different types of quotes: single, double, backtick.
 
 ## BREAKDOWN
 
